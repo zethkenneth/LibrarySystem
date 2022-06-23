@@ -1,0 +1,19 @@
+.navbar{
+    background-color: blue;
+    color: black;
+    height: 30px;
+    width: 100%;
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+.navbar ul li{
+    padding: 10px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+}
